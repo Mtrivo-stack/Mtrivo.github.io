@@ -10,6 +10,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     noButton.addEventListener("click", () => {
-        alert("Sad 😢");
+        alert("c'est pas gentil 😢");
     });
 });
